@@ -6,7 +6,7 @@
         "AhmadArif",
         "Example"
     ],
-    "homepage": "https://github.com/AhmadArif/Example",
+    "homepage": "https://github.com/ahmadarif/example-package",
     "license": "MIT",
     "authors": [
         {
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "ahmadarif\\axample\\": "src"
+            "AhmadArif\\Example\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ahmadarif\\example\\": "tests"
+            "AhmadArif\\Example\\": "tests"
         }
     },
     "scripts": {
