@@ -1,5 +1,5 @@
 {
-    "name": "AhmadArif/Example",
+    "name": "ahmadarif/example",
     "type": "library",
     "description": "Example package laravel",
     "keywords": [
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "AhmadArif\\Example\\": "src"
+            "ahmadarif\\axample\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "AhmadArif\\Example\\": "tests"
+            "ahmadarif\\example\\": "tests"
         }
     },
     "scripts": {
