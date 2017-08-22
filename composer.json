@@ -1,7 +1,7 @@
 {
     "name": "AhmadArif/Example",
     "type": "library",
-    "description": ":package_description",
+    "description": "Example package laravel",
     "keywords": [
         "AhmadArif",
         "Example"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Ahmad Arif",
+            "email": "ahmad.arif019@gmail.com",
+            "homepage": "https://github.com/ahmadarif/ExamplePackage",
             "role": "Developer"
         }
     ],
