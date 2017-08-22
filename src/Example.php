@@ -2,7 +2,7 @@
 
 namespace AhmadArif\Example;
 
-class SkeletonClass
+class Example
 {
     /**
      * Create a new Skeleton Instance
@@ -22,5 +22,9 @@ class SkeletonClass
     public function echoPhrase($phrase)
     {
         return $phrase;
+    }
+
+    public static function sayHello() {
+        return 'Hello World!';
     }
 }
